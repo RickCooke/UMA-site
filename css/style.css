@@ -253,3 +253,12 @@ table tr td{
     font-size:20px;
     left:10%;
 }
+
+#contact_info{
+	padding: 5%;
+}
+
+#contact_table td{
+	vertical-align: bottom;
+	padding: 3% 
+}
